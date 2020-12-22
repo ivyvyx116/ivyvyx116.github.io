@@ -1,3 +1,9 @@
+## Yes, I was just welcomed to GitHub Pages
+
+And maybe I should first try putting a [link](https://ivyvyx116.github.io) here.
+And the interesting I found is how to make ~~cross out~~ with Markdown.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ivyvyx116/ivyvyx116.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
